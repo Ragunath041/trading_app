@@ -6,7 +6,7 @@ import ClientProviders from '@/components/ClientProviders';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Binary Trade App',
+  title: 'CrypTrade',
   description: 'A binary options trading application',
 };
 
