@@ -166,7 +166,7 @@ export default function Home() {
         <div className="flex justify-between items-center mb-6">
           <div className="flex items-center">
             <TrendingUp className="h-6 w-6 mr-2 text-white" />
-            <h1 className="text-2xl font-bold text-white">BinaryTrade</h1>
+            <h1 className="text-2xl font-bold text-white">CrypTrade</h1>
           </div>
           <div className="flex items-center">
             <div className="mr-4">
